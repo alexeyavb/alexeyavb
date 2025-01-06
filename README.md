@@ -23,8 +23,7 @@
 </div>
 
 <div valign="center", align="center">
-<div align="left">	&nbsp;
-### Platform
+<div align="left">	&nbsp;### Platform
 ![x86_64](https://img.shields.io/badge/x86_64-F96430?style=for-the-badge&logo=intel&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM-B94410?style=for-the-badge&logo=arm&logoColor=white)
 ![RISCV](https://img.shields.io/badge/RISCV-B94410?style=for-the-badge&logo=riscv&logoColor=white)
