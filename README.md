@@ -6,8 +6,12 @@
 - [x] ***Manufacturing*** Streamlining production processes, manage inventory, and improve supply chain visibility for enhanced operational efficiency. 
 - [x] ***Retail*** Optimising inventory managements, improving sales tracking, and gain insights into customer preferences to deliver a seamless shopping experience. 
 - [x] ***Construction*** Efficient managing project timeline, budgets, and resources, ensuring smoother collaboration among stakeholders and delivering projects on time and within budget.
-- [x] ***Logistics*** Enhancing logistics planning, inventory tracking, and distribution management to ensure timely deliveries and cost optimisation.
+- [x] ***Logistics*** Enhancing logistics planning, inventory tracking, and distribution management to ensure timely deliveries and cost optimisation.	&nbsp;
 
+<img src="https://camo.githubusercontent.com/9d741490a818569b4ecccfed7d25285e3a56965b1649f7ef4b29f57ba95bfd2b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f676973743f69643d6262666365333165303231376133363839633864393631613335366362313064267468656d653d63616c6d" 
+    alt="Gist Card" 
+    data-canonical-src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&amp;theme=calm" 
+    style="max-width: 100%;" />
 #### As hobbist i'am make small and lite projects for MCU and SOCs with run time sound processing and embedded graphics.
 ## Github Overview
 <a href="https://github.com/alexeyavb/github-readme-stats">
@@ -15,11 +19,9 @@
 </a>
 <a href="https://github.com/alexeyavb/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeyavb&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
+</a>&nbsp;<p><br>
 
-&nbsp;<p><br>
 <img align="center" height=200 width=800 alt="alexeyavb Activity stats " src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeyavb&theme=radical" />	&nbsp;
-
 #### Platform
 ![x86](https://img.shields.io/badge/x86-6430F9?style=for-the-badge&logo=intel&logoColor=white)
 ![amd64](https://img.shields.io/badge/amd64-F96430?style=for-the-badge&logo=amd&logoColor=white)
