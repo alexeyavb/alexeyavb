@@ -1,13 +1,14 @@
 # alexeyavb
 ## Hi! my name is Alex.<br>
-#### I'am working with dev ERP and Accounting systems, and i'am professional ERP developer. <br>
+#### I'am working with dev ERP and Accounting systems, and i'am professional ERP Developer with DevOps skills.
 
-- [x] *Finance*.Integrate financial operations, automate accounting processes, and ensure regulatory compliance to enhance financial decision-making and risk management. 
-- [x] Streamline production processes, manage inventory, and improve supply chain visibility for enhanced operational efficiency. 
-- [x] Optimise inventory management, improve sales tracking, and gain insights into customer preferences to deliver a seamless shopping experience. 
-- [x] Efficiently manage project timelines, budgets, and resources, ensuring smoother collaboration among stakeholders and delivering projects on time and within budget.
-- [x] Enhance logistics planning, inventory tracking, and distribution management to ensure timely deliveries and cost optimisation. 
+- [x] ***Finance***.Integrate financial operations, automate accounting processes, and ensure regulatory compliance to enhance financial decision-making and risk management. 
+- [x] ***Manufacturing*** Streamline production processes, manage inventory, and improve supply chain visibility for enhanced operational efficiency. 
+- [x] ***Retail*** Optimise inventory management, improve sales tracking, and gain insights into customer preferences to deliver a seamless shopping experience. 
+- [x] ***Construction*** Efficiently manage project timelines, budgets, and resources, ensuring smoother collaboration among stakeholders and delivering projects on time and within budget.
+- [x] ***Logistics*** Enhance logistics planning, inventory tracking, and distribution management to ensure timely deliveries and cost optimisation. 
 
+#### As hobbist i'am make small projects for MCU and SOCs
 ## Github Overview
 <img align="left" alt="alexeyavb Github stats" src="https://github-readme-stats.vercel.app/api?username=alexeyavb&show_icons=true&theme=radical" />	&nbsp;
 <img align="right" alt="alexeyavb Top langs " src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeyavb&hide=javascript,html,css,CMake,Python,Batchfile&theme=radical&layout=compact" />	&nbsp;
