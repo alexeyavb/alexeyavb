@@ -22,11 +22,11 @@
 ### Tools and IDE`s
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![VS](https://img.shields.io/badge/Visual_Studio-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS](https://img.shields.io/badge/Visual_Studio-0078D4?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![QEMU](https://img.shields.io/badge/Qemu-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FF6C37?style=for-the-badge&logo=eclipse&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FF6C37?style=for-the-badge&logo=docker&logoColor=white)
+![QEMU](https://img.shields.io/badge/Qemu-FF6C37?style=for-the-badge&logo=qemu&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <br>
 ### Skills
