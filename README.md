@@ -49,6 +49,7 @@
 #### DevOps  ️:
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-E44C30?style=for-the-badge&logo=make&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-0F0FFA?style=for-the-badge&logo=ansible&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0F0FFA?style=for-the-badge&logo=docker&logoColor=white)
 ![QEMU](https://img.shields.io/badge/Qemu-EFEC57?style=for-the-badge&logo=qemu&logoColor=black)
