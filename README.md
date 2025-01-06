@@ -2,11 +2,11 @@
 ## Hi! my name is Alex.<br>
 #### I'am working with dev ERP and Accounting systems, and i'am professional ERP Developer with DevOps skills.
 
-- [x] ***Finance***.Integrate financial operations, automate accounting processes, and ensure regulatory compliance to enhance financial decision-making and risk management. 
-- [x] ***Manufacturing*** Streamline production processes, manage inventory, and improve supply chain visibility for enhanced operational efficiency. 
-- [x] ***Retail*** Optimise inventory management, improve sales tracking, and gain insights into customer preferences to deliver a seamless shopping experience. 
-- [x] ***Construction*** Efficiently manage project timelines, budgets, and resources, ensuring smoother collaboration among stakeholders and delivering projects on time and within budget.
-- [x] ***Logistics*** Enhance logistics planning, inventory tracking, and distribution management to ensure timely deliveries and cost optimisation. 
+- [x] ***Finance*** Integrating financial operations, automating accounting processes, and ensure regulatory compliance to enhance financial decision-making and risk management. 
+- [x] ***Manufacturing*** Streamlining production processes, manage inventory, and improve supply chain visibility for enhanced operational efficiency. 
+- [x] ***Retail*** Optimising inventory managements, improving sales tracking, and gain insights into customer preferences to deliver a seamless shopping experience. 
+- [x] ***Construction*** Efficient managing project timeline, budgets, and resources, ensuring smoother collaboration among stakeholders and delivering projects on time and within budget.
+- [x] ***Logistics*** Enhancing logistics planning, inventory tracking, and distribution management to ensure timely deliveries and cost optimisation.
 
 #### As hobbist i'am make small and lite projects for MCU and SOCs with run time sound processing and embedded graphics.
 ## Github Overview
