@@ -11,7 +11,7 @@
 #### As hobbist i'am make small projects for MCU and SOCs
 ## Github Overview
 <div valgn="center">
-<div align="left" valign=center>
+<div align="left" valign=center halign="center">
 <img align="left" alt="alexeyavb Github stats" src="https://github-readme-stats.vercel.app/api?username=alexeyavb&show_icons=true&theme=radical" />	&nbsp;
 </div>
 <div align="right" valign="center">
@@ -22,7 +22,7 @@
 </div>
 </div>
 
-<div valign="center", align="center">
+<div valign="center", halign="center">
 
 ### Platform
 ![x86_64](https://img.shields.io/badge/x86_64-F96430?style=for-the-badge&logo=intel&logoColor=white)
