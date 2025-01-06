@@ -17,7 +17,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeyavb&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
-&nbsp;
+    &nbsp;<p><br>
 <img align="center" height=200 width=800 alt="alexeyavb Activity stats " src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeyavb&theme=radical" />	&nbsp;
 
 ### Platform
