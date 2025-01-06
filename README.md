@@ -33,5 +33,10 @@
 ![Docker](https://img.shields.io/badge/Docker-0F0FFA?style=for-the-badge&logo=docker&logoColor=white)
 ![QEMU](https://img.shields.io/badge/Qemu-EFEC57?style=for-the-badge&logo=qemu&logoColor=black)
 
+### OS
+![Debian](https://img.shields.io/badge/Debian-F96430?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-B94410?style=for-the-badge&logo=ubuntu&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-BBE0BB?style=for-the-badge&logo=macos&logoColor=white)
 <br>
 ### Skills
+.
