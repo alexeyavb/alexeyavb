@@ -26,9 +26,10 @@
 <div valign="center", halign="center">
 
 ### Platform
-![x86_64](https://img.shields.io/badge/x86_64-F96430?style=for-the-badge&logo=intel&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM-B94410?style=for-the-badge&logo=arm&logoColor=white)
-![RISCV](https://img.shields.io/badge/RISCV-B94410?style=for-the-badge&logo=riscv&logoColor=white)
+![x86](https://img.shields.io/badge/x86_64-6430F9?style=for-the-badge&logo=intel&logoColor=white)
+![amd64](https://img.shields.io/badge/x86_64-F96430?style=for-the-badge&logo=amd&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-B94444?style=for-the-badge&logo=arm&logoColor=white)
+![RISCV](https://img.shields.io/badge/RISCV-44F910?style=for-the-badge&logo=riscv&logoColor=white)
 ### Common languages
 ![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white)
 ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white)
