@@ -78,18 +78,17 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-![51Core](https://img.shields.io/badge/-51Core-333333?style=flat&logo=51Core&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=C/C++&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-333333?style=flat&logo=ESP32&logoColor=white)
 ![STM32](https://img.shields.io/badge/-STM32-333333?style=flat&logo=STM32&logoColor=white)
 ![GD32](https://img.shields.io/badge/-GD32-333333?style=flat&logo=GD32&logoColor=white)
 ![CortexM](https://img.shields.io/badge/-CortexM-333333?style=flat&logo=CortexM&logoColor=white)
+![CortexA](https://img.shields.io/badge/-CortexA-333333?style=flat&logo=CortexA&logoColor=white)
 ![RISC](https://img.shields.io/badge/-RISC-333333?style=flat&logo=RISC&logoColor=white)
-![BLDCM](https://img.shields.io/badge/-BLDCM-333333?style=flat&logo=BLDCM&logoColor=white)
-![CHIPSEA](https://img.shields.io/badge/-CHIPSEA-333333?style=flat&logo=CHIPSEA&logoColor=white)
 ![USB](https://img.shields.io/badge/-USB-333333?style=flat&logo=USB&logoColor=white)
 ![NFC](https://img.shields.io/badge/-NFC-333333?style=flat&logo=NFC&logoColor=white)
 ![FileSystem](https://img.shields.io/badge/-FileSystem-333333?style=flat&logo=FileSystem&logoColor=white)
 ![LVGL](https://img.shields.io/badge/-LVGL-333333?style=flat&logo=LVGL&logoColor=white)
-![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=C/C++&logoColor=white)
+
 #### CodeWars
 [![codewars](https://www.codewars.com/users/barnukoff/badges/small)](https://www.codewars.com/users/barnukoff)
