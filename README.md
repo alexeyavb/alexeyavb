@@ -15,7 +15,7 @@
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4EA9FB?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-AE090B?style=for-the-badge&logo=mssql&logoColor=whgite)
-![MySQL](https://img.shields.io/badge/MySQL-E00C04?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-E00C04?style=for-the-badge&logo=mysql&logoColor=gray)
 ![SQLite](https://img.shields.io/badge/SQLite-4E596B?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebird](https://img.shields.io/badge/Firebird-0E094B?style=for-the-badge&logo=firebird&logoColor=white)
 
