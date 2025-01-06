@@ -15,6 +15,13 @@
 <br>	&nbsp;
 <img align="center" height=200 width=800 alt="alexeyavb Activity stats " src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeyavb&theme=radical" />
 
+
+<a href="https://github.com/alexeyavb/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alexeyavb" />
+</a>
+<a href="https://github.com/alexeyavb/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeyavb&layout=compact&langs_count=8&card_width=320" />
+</a>
 ### Platform
 ![x86](https://img.shields.io/badge/x86-6430F9?style=for-the-badge&logo=intel&logoColor=white)
 ![amd64](https://img.shields.io/badge/amd64-F96430?style=for-the-badge&logo=amd&logoColor=white)
