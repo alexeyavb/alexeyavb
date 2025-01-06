@@ -8,8 +8,8 @@
 
 ![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white)
 ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white)
-![Java](https://img.shields.io/badge/Java-0a0f4f?style=for-the-badge&logo=openjdk&logoColor=blue)
 ![1C Enterprise and Yellow ERP](https://img.shields.io/badge/1C_Enterprise-eac54f?style=for-the-badge&logo=openjdk&logoColor=red)
+![Java](https://img.shields.io/badge/Java-0a0f4f?style=for-the-badge&logo=openjdk&logoColor=blue)
 ![Pascal](https://img.shields.io/badge/Pascal-4ac94f?style=for-the-badge&logo=delphi&logoColor=blue)	&nbsp;
 
 ### Databases
