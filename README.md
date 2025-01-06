@@ -1,11 +1,12 @@
 # alexeyavb
-Hi! my name is Alex.
-I'am working with dev ERP and Accounting systems. I'am professional ERP developer.
-[x] *Finance*.Integrate financial operations, automate accounting processes, and ensure regulatory compliance to enhance financial decision-making and risk management. 
-[x] Streamline production processes, manage inventory, and improve supply chain visibility for enhanced operational efficiency. 
-[x] Optimise inventory management, improve sales tracking, and gain insights into customer preferences to deliver a seamless shopping experience. 
-[x] Efficiently manage project timelines, budgets, and resources, ensuring smoother collaboration among stakeholders and delivering projects on time and within budget.
-[x] Enhance logistics planning, inventory tracking, and distribution management to ensure timely deliveries and cost optimisation. 
+## Hi! my name is Alex.<br>
+#### I'am working with dev ERP and Accounting systems, and i'am professional ERP developer. <br>
+
+- [x] *Finance*.Integrate financial operations, automate accounting processes, and ensure regulatory compliance to enhance financial decision-making and risk management. 
+- [x] Streamline production processes, manage inventory, and improve supply chain visibility for enhanced operational efficiency. 
+- [x] Optimise inventory management, improve sales tracking, and gain insights into customer preferences to deliver a seamless shopping experience. 
+- [x] Efficiently manage project timelines, budgets, and resources, ensuring smoother collaboration among stakeholders and delivering projects on time and within budget.
+- [x] Enhance logistics planning, inventory tracking, and distribution management to ensure timely deliveries and cost optimisation. 
 
 ## Github Overview
 <img align="left" alt="alexeyavb Github stats" src="https://github-readme-stats.vercel.app/api?username=alexeyavb&show_icons=true&theme=radical" />	&nbsp;
