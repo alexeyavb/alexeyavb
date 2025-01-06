@@ -65,8 +65,7 @@
 ![MacOS](https://img.shields.io/badge/MacOS-ABABAB?style=for-the-badge&logo=macos&logoColor=black)
 ![WINDOWS](https://img.shields.io/badge/Windows%20NT4..11-070756?style=for-the-badge&logo=wndowsnt&logoColor=white)
 
-### Tech stack
-## Tech Stack
+### Tech Stack
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=white)
 ![BLE](https://img.shields.io/badge/-BLE-333333?style=flat&logo=Bluetooth&logoColor=white)
 ![ZigBee](https://img.shields.io/badge/-ZigBee-333333?style=flat&logo=ZigBee&logoColor=white)
