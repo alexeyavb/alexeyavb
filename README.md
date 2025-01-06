@@ -22,7 +22,7 @@
 </div>
 </div>
 
-<div>
+<div valign="center", align="center">
 <div align="left">
 
 ### Platform
