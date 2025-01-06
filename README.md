@@ -21,7 +21,7 @@
 
 ### Tools and IDE`s
 
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=vscode&logoColor=white)
 ![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FF6C37?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-FF6C37?style=for-the-badge&logo=docker&logoColor=white)
