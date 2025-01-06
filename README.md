@@ -23,7 +23,9 @@
 </div>
 
 <div valign="center", align="center">
-<div align="left">	&nbsp;### Platform
+<div align="left">	&nbsp;
+
+### Platform
 ![x86_64](https://img.shields.io/badge/x86_64-F96430?style=for-the-badge&logo=intel&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM-B94410?style=for-the-badge&logo=arm&logoColor=white)
 ![RISCV](https://img.shields.io/badge/RISCV-B94410?style=for-the-badge&logo=riscv&logoColor=white)
@@ -54,7 +56,7 @@
 ![KiCad](https://img.shields.io/badge/KiCAD-6E6ED7?style=for-the-badge&logo=kicad&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### DevOps  ️:
+#### DevOps  ️:
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-E44C30?style=for-the-badge&logo=make&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
