@@ -71,24 +71,22 @@
 ![CortexA](https://img.shields.io/badge/-CortexA-333333?style=flat&logo=CortexA&logoColor=white)
 ![RISC](https://img.shields.io/badge/-RISC-333333?style=flat&logo=RISC&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-333333?style=flat&logo=TCP/IP&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-333333?style=flat&logo=FreeRTOS&logoColor=white)
+![RTThread](https://img.shields.io/badge/-RTThread-333333?style=flat&logo=RTThread&logoColor=white)
+![IOT](https://img.shields.io/badge/-IOT-333333?style=flat&logo=IOT&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=white)
 ![BLE](https://img.shields.io/badge/-BLE-333333?style=flat&logo=Bluetooth&logoColor=white)
 ![ZigBee](https://img.shields.io/badge/-ZigBee-333333?style=flat&logo=ZigBee&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-333333?style=flat&logo=FreeRTOS&logoColor=white)
-![RTThread](https://img.shields.io/badge/-RTThread-333333?style=flat&logo=RTThread&logoColor=white)
-![IOT](https://img.shields.io/badge/-IOT-333333?style=flat&logo=IOT&logoColor=white)
 ![LVGL](https://img.shields.io/badge/-LVGL-333333?style=flat&logo=LVGL&logoColor=white)
 ![MQTT](https://img.shields.io/badge/-MQTT-333333?style=flat&logo=MQTT&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![HTTP](https://img.shields.io/badge/-HTTP-333333?style=flat&logo=HTTP&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![XML](https://img.shields.io/badge/-XML-333333?style=flat&logo=XML&logoColor=white)
 ![XSD](https://img.shields.io/badge/-XSD-333333?style=flat&logo=XSD&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=JSON&logoColor=white)
-
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ![USB](https://img.shields.io/badge/-USB-333333?style=flat&logo=USB&logoColor=white)
 ![I2S](https://img.shields.io/badge/-I2S-333333?style=flat&logo=I2S&logoColor=white)
