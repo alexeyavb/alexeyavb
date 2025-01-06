@@ -4,8 +4,11 @@
 <img align="left" alt="alexeyavb Github stats" src="https://github-readme-stats.vercel.app/api?username=alexeyavb&show_icons=true&theme=radical" />	&nbsp;
 <img align="right" alt="alexeyavb Top langs " src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeyavb&hide=javascript,html,css,CMake,Python,Batchfile&theme=radical&layout=compact" />	&nbsp;
 <br /><br /> <br /><br /><br /> <br /><br /><br /> <br />
-### Common languages
-
+### Platform
+![x86_64](https://img.shields.io/badge/x86_64-F96430?style=for-the-badge&logo=intel&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-B94410?style=for-the-badge&logo=arm&logoColor=white)
+![RISCV](https://img.shields.io/badge/RISCV-B94410?style=for-the-badge&logo=riscv&logoColor=white)
+#### Common languages
 ![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white)
 ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white)
 ![1C Enterprise and Yellow ERP](https://img.shields.io/badge/1C_Enterprise-eac54f?style=for-the-badge&logo=openjdk&logoColor=red)
@@ -19,8 +22,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-4E596B?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebird](https://img.shields.io/badge/Firebird-0E094B?style=for-the-badge&logo=firebird&logoColor=white)
 
-### Tools and IDE`s
-
+#### Tools and IDE`s
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-6C6CB7?style=for-the-badge&logo=eclipse&logoColor=white)
@@ -33,17 +35,13 @@
 ![Docker](https://img.shields.io/badge/Docker-0F0FFA?style=for-the-badge&logo=docker&logoColor=white)
 ![QEMU](https://img.shields.io/badge/Qemu-EFEC57?style=for-the-badge&logo=qemu&logoColor=black)
 
-### OS
+#### OS
 ![Debian](https://img.shields.io/badge/Debian-F96430?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-B94410?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![LFS](https://img.shields.io/badge/LFS-B94410?style=for-the-badge&logo=linux&logoColor=white)
 ![Gentoo](https://img.shields.io/badge/Gentoo-6C6CB8?style=for-the-badge&logo=gentoo&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-ABABAB?style=for-the-badge&logo=macos&logoColor=black)
 ![WINDOWS](https://img.shields.io/badge/Windows%20NT4..11-070756?style=for-the-badge&logo=wndowsnt&logoColor=white)
-### Platform
-![x86_64](https://img.shields.io/badge/x86_64-F96430?style=for-the-badge&logo=intel&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM-B94410?style=for-the-badge&logo=arm&logoColor=white)
-![RISCV](https://img.shields.io/badge/RISCV-B94410?style=for-the-badge&logo=riscv&logoColor=white)
 
 ### Skills
 .
