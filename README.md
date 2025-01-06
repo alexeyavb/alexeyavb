@@ -88,10 +88,10 @@
 ![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=JSON&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-![USB](https://img.shields.io/badge/-USB-333333?style=flat&logo=USB&logoColor=white)
-![TinyUSB](https://img.shields.io/badge/-TinyUSB-333333?style=flat&logo=tinyusb&logoColor=white)
 ![I2S](https://img.shields.io/badge/-I2S-333333?style=flat&logo=I2S&logoColor=white)
 ![SPI](https://img.shields.io/badge/-SPI-333333?style=flat&logo=SPI&logoColor=white)
+![USB](https://img.shields.io/badge/-USB-333333?style=flat&logo=USB&logoColor=white)
+![TinyUSB](https://img.shields.io/badge/-TinyUSB-333333?style=flat&logo=tinyusb&logoColor=white)
 ![NFC](https://img.shields.io/badge/-NFC-333333?style=flat&logo=NFC&logoColor=white)
 ![CAN](https://img.shields.io/badge/-CAN-333333?style=flat&logo=NFC&logoColor=white)
 ![FileSystem](https://img.shields.io/badge/-FileSystem-333333?style=flat&logo=FileSystem&logoColor=white)
