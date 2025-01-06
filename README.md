@@ -13,12 +13,11 @@
 ![Pascal](https://img.shields.io/badge/Pascal-4ac94f?style=for-the-badge&logo=freepascal&logoColor=blue)	&nbsp;
 
 ### Databases
-#### 🙊 - Database:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebird](https://img.shields.io/badge/Firebird-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4EA9FB?style=for-the-badge&logo=mongodb&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-AE090B?style=for-the-badge&logo=mongodb&logoColor=red)
+![MySQL](https://img.shields.io/badge/MySQL-E00C04?style=for-the-badge&logo=mysql&logoColor=red)
+![SQLite](https://img.shields.io/badge/SQLite-4E596B?style=for-the-badge&logo=mongodb&logoColor=gray)
+![Firebird](https://img.shields.io/badge/Firebird-0E094B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br>
 ### Skills
