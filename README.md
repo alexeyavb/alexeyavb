@@ -15,6 +15,8 @@
 <div align="center">
 <img align="center" alt="alexeyavb Activity stats " src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeyavb&theme=radical" />
 </div>
+
+
 ### Platform
 ![x86_64](https://img.shields.io/badge/x86_64-F96430?style=for-the-badge&logo=intel&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM-B94410?style=for-the-badge&logo=arm&logoColor=white)
