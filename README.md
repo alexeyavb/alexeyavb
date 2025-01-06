@@ -91,3 +91,5 @@
 ![FileSystem](https://img.shields.io/badge/-FileSystem-333333?style=flat&logo=FileSystem&logoColor=white)
 ![LVGL](https://img.shields.io/badge/-LVGL-333333?style=flat&logo=LVGL&logoColor=white)
 ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=C/C++&logoColor=white)
+#### CodeWars
+[![codewars](https://www.codewars.com/users/barnukoff/badges/small)](https://www.codewars.com/users/barnukoff)
