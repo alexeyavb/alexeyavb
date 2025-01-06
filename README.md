@@ -96,5 +96,4 @@
 ![CAN](https://img.shields.io/badge/-CAN-333333?style=flat&logo=NFC&logoColor=white)
 ![FileSystem](https://img.shields.io/badge/-FileSystem-333333?style=flat&logo=FileSystem&logoColor=white)
 
-#### CodeWars
 [![codewars](https://www.codewars.com/users/barnukoff/badges/small)](https://www.codewars.com/users/barnukoff)
