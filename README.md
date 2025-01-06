@@ -36,8 +36,8 @@
 ### OS
 ![Debian](https://img.shields.io/badge/Debian-F96430?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-B94410?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Gentoo](https://img.shields.io/badge/Ubuntu-6C6CB8?style=for-the-badge&logo=gentoo&logoColor=white)
-![LFS](https://img.shields.io/badge/Ubuntu-B94410?style=for-the-badge&logo=lfs&logoColor=white)
+![LFS](https://img.shields.io/badge/LFS-B94410?style=for-the-badge&logo=linux&logoColor=white)
+![Gentoo](https://img.shields.io/badge/Gentoo-6C6CB8?style=for-the-badge&logo=gentoo&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-ABABAB?style=for-the-badge&logo=macos&logoColor=black)
 <br>
 ### Skills
