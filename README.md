@@ -18,6 +18,7 @@
 <img align="right" alt="alexeyavb Top langs " src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeyavb&hide=javascript,html,css,CMake,Python,Batchfile&theme=radical&layout=compact" />	&nbsp;
 </div>
 <div align="center">
+<br>	&nbsp;
 <img align="center" alt="alexeyavb Activity stats " src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeyavb&theme=radical" />
 </div>
 </div>
