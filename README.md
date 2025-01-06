@@ -40,6 +40,10 @@
 ![Gentoo](https://img.shields.io/badge/Gentoo-6C6CB8?style=for-the-badge&logo=gentoo&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-ABABAB?style=for-the-badge&logo=macos&logoColor=black)
 ![WINDOWS](https://img.shields.io/badge/Windows%20NT4..11-070756?style=for-the-badge&logo=wndowsnt&logoColor=white)
-<br>
+### Platform
+![x86_64](https://img.shields.io/badge/x86_64-F96430?style=for-the-badge&logo=intel&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-B94410?style=for-the-badge&logo=arm&logoColor=white)
+![RISCV](https://img.shields.io/badge/RISCV-B94410?style=for-the-badge&logo=riscv&logoColor=white)
+
 ### Skills
 .
