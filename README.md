@@ -60,7 +60,7 @@
 ![LFS](https://img.shields.io/badge/LFS-44B910?style=for-the-badge&logo=linux&logoColor=white)
 ![Gentoo](https://img.shields.io/badge/Gentoo-6C6CB8?style=for-the-badge&logo=gentoo&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-ABABAB?style=for-the-badge&logo=macos&logoColor=black)
-![WINDOWS](https://img.shields.io/badge/Windows%20NT4..11-070756?style=for-the-badge&logo=wndowsnt&logoColor=white)
+![WINDOWS](https://img.shields.io/badge/Windows%20NT4..10.x.x-070756?style=for-the-badge&logo=wndowsnt&logoColor=white)
 
 ### Tech Stack
 ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=C/C++&logoColor=white)
