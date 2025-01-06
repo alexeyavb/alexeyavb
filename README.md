@@ -10,11 +10,11 @@
 
 #### As hobbist i'am make small projects for MCU and SOCs
 ## Github Overview
-<div valgn="center">
-<div align="left" valign=center halign="center">
+<div valgn="center" halign="center" valign="center">
+<div align="left">
 <img align="left" alt="alexeyavb Github stats" src="https://github-readme-stats.vercel.app/api?username=alexeyavb&show_icons=true&theme=radical" />	&nbsp;
 </div>
-<div align="right" valign="center">
+<div align="right">
 <img align="right" alt="alexeyavb Top langs " src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeyavb&hide=javascript,html,css,CMake,Python,Batchfile&theme=radical&layout=compact" />	&nbsp;
 </div>
 <div align="center">
