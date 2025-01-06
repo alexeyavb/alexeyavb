@@ -11,7 +11,7 @@
 #### As hobbist i'am make small projects for MCU and SOCs
 ## Github Overview
 <div valgn="center">
-<div align="left">
+<div align="left" valign=center>
 <img align="left" alt="alexeyavb Github stats" src="https://github-readme-stats.vercel.app/api?username=alexeyavb&show_icons=true&theme=radical" />	&nbsp;
 </div>
 <div align="right" valign="center">
