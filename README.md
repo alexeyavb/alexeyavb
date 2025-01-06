@@ -10,10 +10,10 @@
 
 #### As hobbist i'am make small and lite projects for MCU and SOCs with run time sound processing and embedded graphics.
 ## Github Overview
-<img align="left" height=200 alt="alexeyavb Github stats" src="https://github-readme-stats.vercel.app/api?username=alexeyavb&show_icons=true&theme=radical" />	&nbsp;
-<img align="right" height=200 alt="alexeyavb Top langs " src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeyavb&hide=javascript,html,css,CMake,Python,Batchfile&theme=radical&layout=compact" />	&nbsp;
+<img align="left" height=200 width=400 alt="alexeyavb Github stats" src="https://github-readme-stats.vercel.app/api?username=alexeyavb&show_icons=true&theme=radical" />
+<img align="right" height=200 width=400 alt="alexeyavb Top langs " src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeyavb&hide=javascript,html,css,CMake,Python,Batchfile&theme=radical&layout=compact" />	&nbsp;
 <br>	&nbsp;
-<img align="center" height=200 width=400 alt="alexeyavb Activity stats " src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeyavb&theme=radical" />
+<img align="center" height=200 width=800 alt="alexeyavb Activity stats " src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeyavb&theme=radical" />
 
 ### Platform
 ![x86](https://img.shields.io/badge/x86-6430F9?style=for-the-badge&logo=intel&logoColor=white)
