@@ -12,5 +12,13 @@
 ![1C Enterprise and Yellow ERP](https://img.shields.io/badge/1CEnterprise-eac54f?style=for-the-badge&logo=openjdk&logoColor=red)
 ![Pascal](https://img.shields.io/badge/Pascal-4ac94f?style=for-the-badge&logo=freepascal&logoColor=blue)	&nbsp;
 
+### Databases
+#### 🙊 - Database:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebird](https://img.shields.io/badge/Firebird-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 <br>
 ### Skills
