@@ -8,7 +8,7 @@
 - [x] ***Construction*** Efficiently manage project timelines, budgets, and resources, ensuring smoother collaboration among stakeholders and delivering projects on time and within budget.
 - [x] ***Logistics*** Enhance logistics planning, inventory tracking, and distribution management to ensure timely deliveries and cost optimisation. 
 
-#### As hobbist i'am make small and lite projects for MCU and SOCs
+#### As hobbist i'am make small and lite projects for MCU and SOCs with run time sound processing and embedded graphics.
 ## Github Overview
 <div valgn="center" halign="center" valign="center">
 <div align="left">
