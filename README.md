@@ -36,7 +36,7 @@
 ### OS
 ![Debian](https://img.shields.io/badge/Debian-F96430?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-B94410?style=for-the-badge&logo=ubuntu&logoColor=white)
-![MacOS](https://img.shields.io/badge/MacOS-BBE0BB?style=for-the-badge&logo=macos&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-BBAABB?style=for-the-badge&logo=macos&logoColor=black)
 <br>
 ### Skills
 .
