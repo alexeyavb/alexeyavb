@@ -89,6 +89,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ![USB](https://img.shields.io/badge/-USB-333333?style=flat&logo=USB&logoColor=white)
+![TinyUSB](https://img.shields.io/badge/-TinyUSB-333333?style=flat&logo=tinyusb&logoColor=white)
 ![I2S](https://img.shields.io/badge/-I2S-333333?style=flat&logo=I2S&logoColor=white)
 ![SPI](https://img.shields.io/badge/-SPI-333333?style=flat&logo=SPI&logoColor=white)
 ![NFC](https://img.shields.io/badge/-NFC-333333?style=flat&logo=NFC&logoColor=white)
