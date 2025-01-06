@@ -17,7 +17,8 @@
 </a>&nbsp;<p><br>
 
 <img align="center" height=200 width=800 alt="alexeyavb Activity stats " src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeyavb&theme=radical" />	&nbsp;
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)	&nbsp;
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)	
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/matthen/e5c86c95385b44d7dc127c091b4a299a/)	&nbsp;
 #### Platform
 ![x86](https://img.shields.io/badge/x86-6430F9?style=for-the-badge&logo=intel&logoColor=white)
 ![amd64](https://img.shields.io/badge/amd64-F96430?style=for-the-badge&logo=amd&logoColor=white)
