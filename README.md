@@ -18,7 +18,7 @@
 
 <img align="center" height=200 width=800 alt="alexeyavb Activity stats " src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeyavb&theme=default" />	&nbsp;
 #### Platform
-![x86](https://img.shields.io/badge/x86-6430F9?style=for-the-badge&logo=intel&logoColor=white)
+![x86](https://img.shields.io/badge/x86-4EA9FB?style=for-the-badge&logo=intel&logoColor=white)
 ![amd64](https://img.shields.io/badge/amd64-F96430?style=for-the-badge&logo=amd&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM-444444?style=for-the-badge&logo=arm&logoColor=white)
 ![RISCV](https://img.shields.io/badge/RISCV-44A104?style=for-the-badge&logo=riscv&logoColor=white)	&nbsp;
