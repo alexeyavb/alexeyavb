@@ -16,7 +16,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeyavb&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=320&theme=shadow_blue" />
 </a>&nbsp;<p><br>
 
-<img align="center" height=200 width=800 alt="alexeyavb Activity stats " src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeyavb&theme=shadow_blue" />	&nbsp;
+<img align="center" height=200 width=800 alt="alexeyavb Activity stats " src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeyavb&theme=default" />	&nbsp;
 #### Platform
 ![x86](https://img.shields.io/badge/x86-6430F9?style=for-the-badge&logo=intel&logoColor=white)
 ![amd64](https://img.shields.io/badge/amd64-F96430?style=for-the-badge&logo=amd&logoColor=white)
