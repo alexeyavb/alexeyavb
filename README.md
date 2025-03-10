@@ -8,15 +8,9 @@
 - [x] ***Construction*** Efficient managing project timeline, budgets, and resources, ensuring smoother collaboration among stakeholders and delivering projects on time and within budget.
 - [x] ***Logistics*** Enhancing logistics planning, inventory tracking, and distribution management to ensure timely deliveries and cost optimisation.	&nbsp;
 #### As hobbist i'am make small and lite projects for MCU and SOCs with run time sound processing and embedded graphics.
-## Github Overview	&nbsp;
-<a href="https://github.com/alexeyavb/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alexeyavb&theme=shadow_blue" />
-</a>
-<a href="https://github.com/alexeyavb/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeyavb&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=320&theme=shadow_blue" />
-</a>&nbsp;<p><br>
 
 <img align="center" height=200 width=800 alt="alexeyavb Activity stats " src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeyavb&theme=default" />	&nbsp;
+
 #### Platform
 ![x86](https://img.shields.io/badge/x86-4EA9FB?style=for-the-badge&logo=intel&logoColor=white)
 ![amd64](https://img.shields.io/badge/amd64-F96430?style=for-the-badge&logo=amd&logoColor=white)
