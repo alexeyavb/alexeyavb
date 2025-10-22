@@ -10,7 +10,7 @@
 #### As hobbist i'am make small and lite projects for MCU and SOCs with run time sound processing and embedded graphics.
 
 <img align="center" height=200 width=800 alt="alexeyavb Activity stats " src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeyavb&theme=default" />	&nbsp;
-![alexeyavb's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeyavb&include_all_commits=true)
+<!-- ![alexeyavb's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeyavb&include_all_commits=true) !-->
 #### Platform
 ![x86](https://img.shields.io/badge/x86-4EA9FB?style=for-the-badge&logo=intel&logoColor=white)
 ![amd64](https://img.shields.io/badge/amd64-F96430?style=for-the-badge&logo=amd&logoColor=white)
